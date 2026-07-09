@@ -49,7 +49,7 @@ Building secure full-stack web applications while exploring application security
 ## 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lekhadalvi&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+<img src="https://ghchart.rshah.org/3FB950/lekhadalvi" alt="lekhadalvi's GitHub Contribution Graph" width="100%"/>
 </p>
 
 ---
