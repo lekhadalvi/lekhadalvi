@@ -36,12 +36,20 @@ Building secure full-stack web applications while exploring application security
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=lekhadalvi&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=lekhadalvi&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lekhadalvi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekhadalvi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=lekhadalvi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lekhadalvi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lekhadalvi&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
