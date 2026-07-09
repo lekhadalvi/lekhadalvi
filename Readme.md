@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Lekha Dalvi</h1>
 <h3 align="center">
 Cyber Security & Digital Forensics Student • Full Stack Developer
@@ -37,12 +36,12 @@ Building secure full-stack web applications while exploring application security
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lekhadalvi&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=lekhadalvi&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lekhadalvi&show_icons=true&theme=github-dark&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekhadalvi&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lekhadalvi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekhadalvi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -81,7 +80,7 @@ Contributed to a complete static and dynamic business event website, integrating
 <a href="https://linkedin.com/in/lekhadalvi">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:lekhadalvi08@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lekhadalvi08@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
